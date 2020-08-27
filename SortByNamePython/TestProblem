@@ -1,0 +1,6 @@
+#Testare problema
+
+b= Parent()
+b.met4()
+a = Child()
+a.met4()

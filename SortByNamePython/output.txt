@@ -1,0 +1,6 @@
+['Paris', 'Cluj-Napoca', 'Timisoara', 'Barcelona', 'Venetia', 'Viena']
+['Berlin', 'Madrid', 'Londra', 'Iasi']
+{'impar': ['Paris', 'Cluj-Napoca', 'Timisoara', 'Barcelona', 'Venetia', 'Viena'], 'par': ['Berlin', 'Madrid', 'Londra', 'Iasi']}
+['Barcelona', 'Berlin', 'Cluj-Napoca', 'Iasi', 'Londra', 'Madrid', 'Paris', 'Timisoara', 'Venetia', 'Viena']
+['Baelrnco', 'Beilrn', 'Na-lCcujpo', 'aIis', 'darnLo', 'dairM', 'airPs', 'airoTms', 'taeinV', 'aeinV']
+{'impar': ['dairM', 'airPs', 'airoTms', 'aeinV'], 'par': ['Baelrnco', 'Beilrn', 'Na-lCcujpo', 'aIis', 'darnLo', 'taeinV']}

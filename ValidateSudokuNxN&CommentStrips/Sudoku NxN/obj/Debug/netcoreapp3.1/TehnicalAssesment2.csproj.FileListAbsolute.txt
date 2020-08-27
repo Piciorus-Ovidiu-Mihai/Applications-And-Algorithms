@@ -1,0 +1,13 @@
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\bin\Debug\netcoreapp3.1\TehnicalAssesment2.exe
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\bin\Debug\netcoreapp3.1\TehnicalAssesment2.deps.json
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\bin\Debug\netcoreapp3.1\TehnicalAssesment2.runtimeconfig.json
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\bin\Debug\netcoreapp3.1\TehnicalAssesment2.runtimeconfig.dev.json
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\bin\Debug\netcoreapp3.1\TehnicalAssesment2.dll
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\bin\Debug\netcoreapp3.1\TehnicalAssesment2.pdb
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\obj\Debug\netcoreapp3.1\TehnicalAssesment2.AssemblyInfoInputs.cache
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\obj\Debug\netcoreapp3.1\TehnicalAssesment2.AssemblyInfo.cs
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\obj\Debug\netcoreapp3.1\TehnicalAssesment2.csproj.CoreCompileInputs.cache
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\obj\Debug\netcoreapp3.1\TehnicalAssesment2.dll
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\obj\Debug\netcoreapp3.1\TehnicalAssesment2.pdb
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\obj\Debug\netcoreapp3.1\TehnicalAssesment2.genruntimeconfig.cache
+C:\Users\Ovidiu\source\repos\TehnicalAssesment2\obj\Debug\netcoreapp3.1\TehnicalAssesment2.csprojAssemblyReference.cache
