@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.Lab3</groupId>
+    <artifactId>Lab3</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- class that has the Main method -->
+        <mainClass>ro.utcluj.aut.isp.template.Example</mainClass>
+        <!-- name appended to standard jar name to indicate shaded/executable version -->
+        <shadedClassifierName>executable</shadedClassifierName>
+        <junit-version>4.12</junit-version>
+        <java.compile-verison>1.8</java.compile-verison>
+        <slf4j-version>1.7.25</slf4j-version>
+    </properties>
+
+    <dependencies>
+        <!-- Everyone needs a logger -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>${slf4j-version}</version>
+        </dependency>
+
+        <!-- Unit testing is mandatory -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit-version}</version>
+            <!-- only to be used during test phase -->
+            <!-- will not be included in executable jar -->
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
+
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ISP-lab12.iml" filepath="$PROJECT_DIR$/.idea/ISP-lab12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/bank-account/bank-account.iml" filepath="$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/bank-account/bank-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/electronic-device/electronic-device.iml" filepath="$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/electronic-device/electronic-device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/template/template.iml" filepath="$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/template/template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/vehicle-2/vehicle-2.iml" filepath="$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/vehicle-2/vehicle-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/vehicles/vehicles.iml" filepath="$PROJECT_DIR$/piciorus-ovidiu-mihai-30123-isp-2019/vehicles/vehicles.iml" />
+    </modules>
+  </component>
+</project>

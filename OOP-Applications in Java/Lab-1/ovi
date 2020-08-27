@@ -1,0 +1,4 @@
+git config --global user.email/"mihai.mihu50@yahoo.com"
+gif config --global user.name ""
+git commit -m "Added text file"
+git push

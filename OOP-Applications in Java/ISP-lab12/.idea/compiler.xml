@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bank-account" />
+        <module name="electronic-device" />
+        <module name="template" />
+        <module name="vehicle-2" />
+        <module name="vehicles" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bank-account" target="1.8" />
+      <module name="electronic-device" target="1.8" />
+      <module name="template" target="1.8" />
+      <module name="vehicle-2" target="1.8" />
+      <module name="vehicles" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bank-account" options="-Xlint:all" />
+      <module name="electronic-device" options="-Xlint:all" />
+      <module name="template" options="-Xlint:all" />
+      <module name="vehicle-2" options="-Xlint:all" />
+      <module name="vehicles" options="-Xlint:all" />
+    </option>
+  </component>
+</project>
