@@ -1,19 +1,24 @@
-# 💎 Applications & Algorithms
-💽 This repository contains some little algorithms that I implemented since I start programming.
+# 💻 Applications & Algorithms
+This repository contains some little algorithms that I implemented since I start programming.
 
-## 📒 What I implemented there?
+## 🛠️ Applications Overview
 
-🗳️ Some application that use OOP concepts in Java
+## 🛡️ Key Features
 
-🗳️ Some little algorithms using Python
+## 💽 Prerequisites
+* ⚙️ Install Python
+* ⚙️ Install .NET Core & Visual Studio IDE
+* ⚙️ Install Java & Intellij IDE
 
-    📝 Sort By Name
-    📝 Validate Sodoku NxN
-    📝 Comment Strips
+## 🚀 Getting Started
+* ⭐ Clone the repository
+* ⭐ Open `Sort By Name` application using Jypiter Notebook
+* ⭐ Open `Validate Sodoku NxN` application using Visual Studio
+* ⭐ Open `Comment Strips` application using Visual Studio
+* ⭐ Open `Strong Password Checker` application using Visual Studio
+* ⭐ Open `OOP Applications` application using Intellij
 
-🗳️ Strong Password Checker using C#
-
-## 💻 What I used ?
-* 🛠️ `C#`
-* 🛠️ `Java`
-* 🛠️ `Python`
+## 🖥️ Technologies
+* 💽 `C#`
+* 💽 `Java`
+* 💽 `Python`
